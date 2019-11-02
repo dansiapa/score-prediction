@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".Pilih1Activity">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="105dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="106dp"
+        android:layout_marginBottom="627dp"
+        android:contentDescription="@null"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+
+    <RadioGroup
+        android:id="@+id/pilihan_1"
+        android:layout_width="178dp"
+        android:layout_height="503dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="127dp"
+        android:layout_marginEnd="199dp"
+        android:layout_marginBottom="93dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/barcelona"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/barcelona" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="63dp"
+            android:contentDescription="@null"
+            app:srcCompat="@drawable/barcelona" />
+
+        <RadioButton
+            android:id="@+id/ac_milan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ac_milan" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="68dp"
+            android:contentDescription="@null"
+            app:srcCompat="@drawable/milan" />
+
+        <RadioButton
+            android:id="@+id/mu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mu" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:contentDescription="@null"
+            app:srcCompat="@drawable/mu" />
+
+        <RadioButton
+            android:id="@+id/realmadrid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/real_madrid" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="match_parent"
+            android:layout_height="71dp"
+            android:contentDescription="@null"
+            app:srcCompat="@drawable/realmadrid" />
+
+        <RadioButton
+            android:id="@+id/juventus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/juventus" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="match_parent"
+            android:layout_height="68dp"
+            android:contentDescription="@null"
+            app:srcCompat="@drawable/juventus" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="154dp"
+        android:layout_marginTop="644dp"
+        android:layout_marginEnd="155dp"
+        android:layout_marginBottom="39dp"
+        android:background="?android:selectableItemBackground"
+        android:text="@string/selanjutnya"
+        android:textAllCaps="true"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RadioGroup
+        android:id="@+id/pilihan_2"
+        android:layout_width="180dp"
+        android:layout_height="510dp"
+        android:layout_marginStart="222dp"
+        android:layout_marginTop="130dp"
+        android:layout_marginEnd="9dp"
+        android:layout_marginBottom="91dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/psg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/psg" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="match_parent"
+            android:layout_height="68dp"
+            app:srcCompat="@drawable/psg"
+            android:contentDescription="@null" />
+
+        <RadioButton
+            android:id="@+id/chelsea"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/chelsea" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="match_parent"
+            android:layout_height="62dp"
+            app:srcCompat="@drawable/chelsea"
+            android:contentDescription="@null" />
+
+        <RadioButton
+            android:id="@+id/mancity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/manchester_city" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="match_parent"
+            android:layout_height="67dp"
+            app:srcCompat="@drawable/macity"
+            android:contentDescription="@null" />
+
+        <RadioButton
+            android:id="@+id/liverpool"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/liverpool" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="169dp"
+            android:layout_height="70dp"
+            app:srcCompat="@drawable/liverpool"
+            android:contentDescription="@null" />
+
+        <RadioButton
+            android:id="@+id/munchen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/muncen" />
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="match_parent"
+            android:layout_height="69dp"
+            app:srcCompat="@drawable/munchen"
+            android:contentDescription="@null" />
+    </RadioGroup>
+</androidx.constraintlayout.widget.ConstraintLayout>

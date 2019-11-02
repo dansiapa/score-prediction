@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Soccer Prediction</string>
+    <string name="x">X</string>
+    <string name="barcelona">BARCELONA</string>
+    <string name="barcelona_profil">FC Barcelona, atau singkeknyo Barca, adolah sabuah klub sepak bola Spanyol di Barcelona, Katalonia nan kini bamain di La Liga, divisi nan paliang tinggi di sipak bola Spanyol. Klub iko mamainan patandiangan kandangnyo di Camp Nou nan bakapasitas 99.354 panonton. Klub iko adolah satu-satunyo klub nan maraiah treble winner duo kali, iyolah pado musim 2008-09 jo musim 2014-2015. Barca sampai kini alah maraiah 24 piala La Liga, 25 Copa del Rey, 10 Piala Super Spanyol, 5 Liga Champions Eropa, dan masih banyak juo piala nan lainnyo; nan manjadian klub iko sabagai salah satu klub paliang sukses di Spanyol.</string>
+    <string name="psg">Paris Saint-Germain</string>
+    <string name="profil_psg">Paris Saint-Germain Football Club (pengucapan bahasa Prancis: [paʁi sɛ̃ ʒɛʁmɛ̃]) atau dikenal luas dengan sebutan PSG merupakan sebuah tim sepak bola Prancis yang bermain di Ligue 1, Prancis. Bermarkas di Paris, Prancis. Klub ini didirikan pada 12 Agustus 1970, berkat penggabungan Paris FC dan dengan Stade Saint-Germain.</string>
+    <string name="mu">Manchester United</string>
+    <string name="profil_mu">Manchester United Football Club adalah sebuah klub sepak bola profesional Inggris yang berbasis di Old Trafford, Manchester Raya, yang bermain di Liga Inggris. Didirikan sebagai Newton Heath LYR Football Club pada tahun 1878, klub ini berganti nama menjadi Manchester United pada 1902 dan pindah ke Old Trafford pada tahun 1910.</string>
+    <string name="muncen">Bayern München</string>
+    <string name="profil_munchen">FC Bayern didirikan pada tahun 1900 oleh sebelas pemain sepak bola yang dipimpin oleh Franz John.[5] Meskipun Bayern memenangkan kejuaraan nasional pertamanya pada tahun 1932,[6] klub tersebut tidak dipilih untuk Bundesliga pada awal tahun 1963.[7] Klub memiliki periode yang sukses terbesar di tengah tahun 1970-an, di bawah kapten dari Franz Beckenbauer, memenangkan Piala Eropa tiga kali berturut-turut (1974-1976).</string>
+    <string name="chelsea">CHELSEA</string>
+    <string name="profil_chelsea">Chelsea Football Club adalah sebuah klub sepak bola Inggris yang bermarkas di Fulham, London. Chelsea didirikan pada tahun 1905 dan kini berkompetisi di Liga Utama Inggris.</string>
+    <string name="juventus">JUVENTUS</string>
+    <string name="profil_juventus">Juventus Football Club S.p.A. (dari bahasa Latin:[6] iuventus: masa muda [juˈvɛntus]), biasa disebut sebagai Juventus dan popular dengan nama Juve (pengucapan [ˈjuːve]),[7] adalah klub sepak bola profesional Italia yang berbasis di Turin, Piedmont. Klub sepak bola ini adalah yang tertua ketiga di Italia dan telah menghabiskan sebagian besar sejarahnya, dengan pengecualian pada musim 2006–07, di atas klasemen Divisi Pertama (dikenal sebagai Serie A sejak 1929).</string>
+    <string name="liverpool">LIVERPOOL</string>
+    <string name="profil_liverpool">Liverpool telah memenangkan 6 trofi Liga Champions UEFA (dulu Piala Champions) dan merupakan klub dengan pemegang gelar juara Liga Champions UEFA terbanyak di Inggris dan ketiga di Eropa setelah Real Madrid dan AC Milan. Selain itu Liverpool juga pemegang 3 gelar juara Liga Eropa UEFA dan 4 gelar Piala Super UEFA</string>
+    <string name="manchester_city">MANCHESTER CITY</string>
+    <string name="profil_mancity">Manchester City Football Club (dikenal pula sebagai Man City atau The Citizens) adalah sebuah klub sepak bola profesional dari Inggris yang bermain di Liga Premier Inggris. Klub ini merupakaan klub sekota dengan Manchester United dan bermarkas di Stadion Etihad, Manchester. Pertandingan pertama dimainkan pada bulan November 1880. Pada saat itu masih bernama St Mark\'s (West Gorton). Pada tahun 1887 berubah nama menjadi Ardwick A.F.C, dan pada tahun 1894 menjadi Manchester City F.C.</string>
+    <string name="profil_acmilan">Associazione Calcio Milan (pengucapan bahasa Italia: [assotʃatˈtsjoːne ˈkaltʃo ˈmiːlan]), sering disebut sebagai A.C. Milan atau hanya Milan, adalah sebuah klub sepak bola Italia yang berbasis di Milan, Lombardia, yang bermain di Serie A. Mereka bermain dengan seragam bergaris merah-hitam dan celana putih (kadang-kadang hitam), sehingga dijuluki rossoneri (merah-hitam). Milan adalah tim tersukses kedua dalam sejarah persepak bolaan Italia, menjuarai Serie A 18 kali dan Piala Italia 5 kali.</string>
+    <string name="real_madrid">REAL MADRID</string>
+    <string name="profil_realmadrid">Real Madrid Club de Fútbol (pengucapan bahasa Spanyol: [reˈal maˈðɾið ˈkluβ ðe ˈfutβol]; Royal Madrid Football Club), umumnya dikenal sebagai Real Madrid, adalah klub sepak bola profesional yang berbasis di Madrid, Spanyol. Didirikan pada tahun 1902 sebagai Madrid Football Club, secara tradisional mengenakan kostum kandang putih. Kata Real (dari kerajaan) Spanyol dan dianugerahkan ke klub oleh Raja Alfonso XIII pada tahun 1920 bersama-sama dengan mahkota kerajaan di lambang klub. Klub ini telah memainkan pertandingan kandang di Stadion Santiago Bernabéu dengan kapasitas 85.454 di pusat kota Madrid sejak tahun 1947.</string>
+    <string name="ac_milan">AC MILAN</string>
+    <string name="lihat_hasil">Lihat Hasil</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="vs">VS</string>
+    <string name="tampilkan_score">Tampilkan Score</string>
+    <string name="_0">0</string>
+    <string name="halaman_utama">Halaman Utama</string>
+    <string name="tim_a">TIM A</string>
+    <string name="tim_b">TIM B</string>
+</resources>
