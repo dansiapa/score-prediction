@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "674236905759",
+    "firebase_url": "https://soccer-prediction-36ed0.firebaseio.com",
+    "project_id": "soccer-prediction-36ed0",
+    "storage_bucket": "soccer-prediction-36ed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674236905759:android:bb60244e0ccfb454a0182a",
+        "android_client_info": {
+          "package_name": "com.example.soccerprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674236905759-30pcklii2kc61facuq2ljjlhpofum54u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soccerprediction",
+            "certificate_hash": "75439fa1eb44af1713498b3e7bc7be8b5d8db7a9"
+          }
+        },
+        {
+          "client_id": "674236905759-3512g9hu4956lcj14n7ri600fa4u2igh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnQ1nl5DSAb4Suvy64YIObp0n5-TRKZF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674236905759-3512g9hu4956lcj14n7ri600fa4u2igh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
